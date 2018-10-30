@@ -1,3 +1,4 @@
+#!/bin/python
 import unittest
 import os
 from sys import argv
